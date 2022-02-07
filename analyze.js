@@ -64,7 +64,3 @@ fs.writeFileSync(
         data: data
     } )
 );
-
-// const probSum = Object.values( data ).reduce( ( sum, v ) => sum + v.probability, 0 );
-
-// console.log( `Total probability: ${probSum}` );
