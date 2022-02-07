@@ -1,0 +1,169 @@
+{
+    "keys": [
+        " ",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z"
+    ],
+    "N": 75887,
+    "data": {
+        "t": {
+            "frequency": 4764,
+            "probability": 0.06277755083215834,
+            "width": 3
+        },
+        "h": {
+            "frequency": 1428,
+            "probability": 0.01881745226455124,
+            "width": 7
+        },
+        "e": {
+            "frequency": 7603,
+            "probability": 0.10018843807239712,
+            "width": 7
+        },
+        " ": {
+            "frequency": 9999,
+            "probability": 0.13176169831459933,
+            "width": 3
+        },
+        "o": {
+            "frequency": 4236,
+            "probability": 0.05581983738980326,
+            "width": 7
+        },
+        "f": {
+            "frequency": 924,
+            "probability": 0.01217599852412139,
+            "width": 3
+        },
+        "a": {
+            "frequency": 5382,
+            "probability": 0.07092123815673304,
+            "width": 7
+        },
+        "n": {
+            "frequency": 4824,
+            "probability": 0.06356820008697142,
+            "width": 7
+        },
+        "d": {
+            "frequency": 2506,
+            "probability": 0.033022783876026196,
+            "width": 7
+        },
+        "i": {
+            "frequency": 5475,
+            "probability": 0.07214674450169331,
+            "width": 3
+        },
+        "r": {
+            "frequency": 4866,
+            "probability": 0.06412165456534057,
+            "width": 4
+        },
+        "s": {
+            "frequency": 5091,
+            "probability": 0.06708658927088962,
+            "width": 6
+        },
+        "b": {
+            "frequency": 1146,
+            "probability": 0.015101400766929778,
+            "width": 7
+        },
+        "y": {
+            "frequency": 1029,
+            "probability": 0.013559634720044277,
+            "width": 6
+        },
+        "w": {
+            "frequency": 634,
+            "probability": 0.008354527125858184,
+            "width": 9
+        },
+        "u": {
+            "frequency": 1942,
+            "probability": 0.02559068088078327,
+            "width": 7
+        },
+        "m": {
+            "frequency": 1902,
+            "probability": 0.025063581377574553,
+            "width": 10
+        },
+        "l": {
+            "frequency": 3235,
+            "probability": 0.04262917232200509,
+            "width": 3
+        },
+        "v": {
+            "frequency": 848,
+            "probability": 0.011174509468024826,
+            "width": 6
+        },
+        "c": {
+            "frequency": 3013,
+            "probability": 0.0397037700791967,
+            "width": 6
+        },
+        "p": {
+            "frequency": 2021,
+            "probability": 0.02663170239962049,
+            "width": 7
+        },
+        "g": {
+            "frequency": 1718,
+            "probability": 0.022638923662814447,
+            "width": 7
+        },
+        "k": {
+            "frequency": 595,
+            "probability": 0.007840605110229684,
+            "width": 6
+        },
+        "x": {
+            "frequency": 264,
+            "probability": 0.0034788567211775402,
+            "width": 6
+        },
+        "j": {
+            "frequency": 184,
+            "probability": 0.0024246577147601037,
+            "width": 3
+        },
+        "z": {
+            "frequency": 135,
+            "probability": 0.001778960823329424,
+            "width": 6
+        },
+        "q": {
+            "frequency": 123,
+            "probability": 0.0016208309723668086,
+            "width": 7
+        }
+    }
+}
